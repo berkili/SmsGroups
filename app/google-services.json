@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "226176889956",
+    "project_id": "smsgroups-5f225",
+    "storage_bucket": "smsgroups-5f225.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226176889956:android:9fd1ee0c0cf0cab1b7db71",
+        "android_client_info": {
+          "package_name": "com.example.smsgroups"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226176889956-408m3lcl465aporhsusc2jn07deogomk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXhF2vHW0rJh7Xw09EeaJJmx_sZ8ChYDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226176889956-408m3lcl465aporhsusc2jn07deogomk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
